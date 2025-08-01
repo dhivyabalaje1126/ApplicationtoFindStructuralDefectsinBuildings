@@ -66,7 +66,6 @@ if input_image:
             response = generate_results(prompt, input_image)
             st.markdown(':green[Results]')
             st.write(response)
-
     
 
 
