@@ -1,7 +1,6 @@
 # ApplicationtoFindStructuralDefectsinBuildings
 This application is developed to help find structural defects in buildings.
 It is also deployed in streamlit. 
-Link: 
 
 ## Modules used
 Modules used in this application are listed in 'requirements.txt'
